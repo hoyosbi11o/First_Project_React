@@ -3,3 +3,7 @@ li{
     padding: 0 10px 0 10px;
 
 }
+li:hover{
+    background-color:#F3F3F3 ;
+    padding: 5rem 0;
+}
