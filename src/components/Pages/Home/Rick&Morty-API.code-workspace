@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../Rick&Morty-API"
+		},
+		{
+			"path": "../../../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "react"
+	}
+}
